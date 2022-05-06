@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitDemo.App", "GitDemo.App\GitDemo.App.csproj", "{C9AA6AED-0626-4A5C-804E-7B0A92928B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9AA6AED-0626-4A5C-804E-7B0A92928B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AA6AED-0626-4A5C-804E-7B0A92928B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AA6AED-0626-4A5C-804E-7B0A92928B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AA6AED-0626-4A5C-804E-7B0A92928B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
